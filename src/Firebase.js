@@ -2,13 +2,12 @@ import { initializeApp } from "firebase/app";
 import { getAuth } from "firebase/auth";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBgVqWYleAalygY8bBuI1837kI-O_8mu5o",
-  authDomain: "hospital-project-5ffd8.firebaseapp.com",
-  projectId: "hospital-project-5ffd8",
-  storageBucket: "hospital-project-5ffd8.appspot.com",
-  messagingSenderId: "302972309759",
-  appId: "1:302972309759:web:6f1aa9dd134fd68766fcca",
-  measurementId: "G-EDFKHKJVQ9",
+  apiKey: "AIzaSyAes7nH1vNvAI2Q49namElilt56S02YkHk",
+  authDomain: "hospital-814dc.firebaseapp.com",
+  projectId: "hospital-814dc",
+  storageBucket: "hospital-814dc.appspot.com",
+  messagingSenderId: "966242998819",
+  appId: "1:966242998819:web:b0ab3548eb5efd802cef96",
 };
 
 const app = initializeApp(firebaseConfig);
